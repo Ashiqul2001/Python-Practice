@@ -64,3 +64,4 @@ for i in range(row):
     for j in range(row-1-i):
         print("#", end="")
     print()
+
